@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React
 - 📫 How to reach me: https://www.linkedin.com/in/gaurav-sc/
 - ⚡ Fun fact: The Cosmos is within us. We are made of **Star-stuff**. We are the way for Universe to know itself.:milky_way::stars:
   
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gauravchandrabhan&show_icons=true&title_color=8D38C9&icon_color=8D38C9)
 <!--
+- 🌱 I’m currently learning React
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate ...
 - 🤔 I’m looking for help with ...
