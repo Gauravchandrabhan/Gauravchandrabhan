@@ -8,6 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravchandrabhan&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravchandrabhan&theme=highcontrast)
+
+![Profile Views](https://komarev.com/ghpvc/?username=GauravChandrabhan&color=blueviolet)
 <!--
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
